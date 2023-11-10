@@ -2,12 +2,12 @@
 - Web app
 
 ## Setup
-Create a virtualenv and activate it::
+Create a virtualenv and activate it
 
     $ python3 -m venv .venv
     $ . .venv/bin/activate
 
-Install Flaskr::
+Install Flaskr
 
     $ pip install --upgrade Flask
 
@@ -15,6 +15,6 @@ Install Flaskr::
 
     $ flask --app flaskr run --debug
 
-Quit python virtual environment::
+Quit python virtual environment
 
     $ deactivate
